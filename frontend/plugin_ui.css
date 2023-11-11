@@ -1,0 +1,122 @@
+html {
+    height: 350px;
+}
+body {
+    padding: 0px;
+    margin: 0px;
+    background: rgb(17,27,40);
+    height: 350px;
+}
+#plugin_name {
+    width: 330px;
+    margin: 0 0;
+    background-color: #195975;
+}
+h2 {
+    margin-top: 20px;
+    margin-bottom: 15px;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    font-size: 15px;
+    color: #fff;
+}
+h1 {
+    font-family: 'Russo One', sans-serif;
+    color: white;
+    font-size: 25px;
+    padding: 10px;
+    text-align: center;
+}
+.website{
+    padding-top: 30px;
+}
+.centered-box {
+    background: #58bca8;
+    width: 200px; 
+    height: 100px; 
+    position: relative;
+    top:1rem;
+    left: 18%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#site_score{
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+    font-weight: bold;
+    position: relative;
+    top: 5.8px;
+    margin-left: 3px;
+    text-align: center;
+    font-size: 50px;
+}
+#site_msg{
+    margin-top: 20px;
+    margin-bottom: 5px;
+    font-family: 'Josefin Sans', sans-serif;
+    text-align: center;
+    font-size: 15px;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    font-family: 'Josefin Sans', sans-serif;
+    font-size: 15px;
+    font-weight: 400;
+    margin: 2px;
+    display: inline-block;
+    padding-top: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 3px;
+    color: #fff;
+}
+
+iframe {
+    margin: 10px;
+    display: inline-block;
+}
+
+a {
+    text-align: center;
+    display: block;
+    color: #195975
+}
+.calculate{
+    color:#fff;
+}
+
+.button-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+button {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
+    color:whitesmoke;
+}
+.anchor{
+    color: white;
+    text-decoration: none;
+}
+.anchor:hover{
+    color: whitesmoke;
+    text-decoration: none;
+}
+.padding{
+    padding-bottom: 15px;
+}
